@@ -33,6 +33,9 @@
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               avatars8.githubusercontent.com
+185.199.108.133               avatars7.githubusercontent.com
+185.199.108.133               avatars6.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               avatars4.githubusercontent.com
 185.199.108.133               avatars3.githubusercontent.com
@@ -50,7 +53,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-03-11T19:23:41+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-03-11T19:27:39+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
