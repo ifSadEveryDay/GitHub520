@@ -43,7 +43,7 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 140.82.113.10                 codeload.github.com
-52.217.207.73                 github-cloud.s3.amazonaws.com
+52.217.174.241                github-cloud.s3.amazonaws.com
 52.217.236.249                github-com.s3.amazonaws.com
 54.231.195.105                github-production-release-asset-2e65be.s3.amazonaws.com
 54.231.203.121                github-production-user-asset-6210df.s3.amazonaws.com
@@ -53,7 +53,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-04-28T00:11:39+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-04-28T02:12:04+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
