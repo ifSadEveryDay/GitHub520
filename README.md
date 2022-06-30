@@ -45,7 +45,7 @@
 140.82.114.10                 codeload.github.com
 52.217.72.36                  github-cloud.s3.amazonaws.com
 52.217.110.172                github-com.s3.amazonaws.com
-52.216.137.172                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.139.33                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.140.204                github-production-user-asset-6210df.s3.amazonaws.com
 52.217.138.33                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
@@ -53,7 +53,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-06-30T20:17:37+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-06-30T22:07:43+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
