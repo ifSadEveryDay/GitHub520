@@ -22,7 +22,7 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-44.201.62.40                  github.githubassets.com
+44.204.216.75                 github.githubassets.com
 44.193.229.9                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
@@ -31,17 +31,17 @@
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
 54.236.10.228                 raw.githubusercontent.com
-44.201.62.40                  user-images.githubusercontent.com
-3.231.56.191                  favicons.githubusercontent.com
-44.192.17.151                 avatars8.githubusercontent.com
-44.202.130.109                avatars7.githubusercontent.com
-34.229.201.238                avatars6.githubusercontent.com
-54.164.51.109                 avatars5.githubusercontent.com
-54.89.34.179                  avatars4.githubusercontent.com
-44.197.188.111                avatars3.githubusercontent.com
-34.238.232.47                 avatars2.githubusercontent.com
-44.202.195.234                avatars1.githubusercontent.com
-44.203.24.7                   avatars0.githubusercontent.com
+44.202.195.234                user-images.githubusercontent.com
+44.203.194.6                  favicons.githubusercontent.com
+54.152.20.118                 avatars8.githubusercontent.com
+18.212.240.23                 avatars7.githubusercontent.com
+34.201.241.199                avatars6.githubusercontent.com
+44.201.62.40                  avatars5.githubusercontent.com
+3.231.56.191                  avatars4.githubusercontent.com
+44.192.17.151                 avatars3.githubusercontent.com
+44.203.24.7                   avatars2.githubusercontent.com
+3.231.56.191                  avatars1.githubusercontent.com
+44.203.194.6                  avatars0.githubusercontent.com
 140.82.114.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -53,7 +53,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-07-17T12:25:21+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-07-17T14:10:56+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
