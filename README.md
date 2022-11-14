@@ -22,14 +22,14 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-151.101.1.6                   github.map.fastly.net
-140.82.114.3                  gist.github.com
+140.82.113.3                  gist.github.com
+185.199.108.153               github.io
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-15T00:14:06+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-15T02:12:50+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
