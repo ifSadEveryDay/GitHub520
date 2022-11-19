@@ -23,22 +23,13 @@
 ```bash
 # GitHub520 Host Start
 140.82.114.3                  gist.github.com
-140.82.114.3                  github.com
-35.175.136.30                 user-images.githubusercontent.com
-54.84.43.10                   favicons.githubusercontent.com
-44.211.225.184                avatars8.githubusercontent.com
-44.211.30.62                  avatars7.githubusercontent.com
-34.207.185.112                avatars6.githubusercontent.com
-3.93.33.78                    avatars5.githubusercontent.com
-3.80.101.178                  avatars4.githubusercontent.com
-44.211.83.148                 avatars3.githubusercontent.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
+185.199.108.153               github.io
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-19T11:05:17+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-19T14:11:39+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
