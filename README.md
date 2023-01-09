@@ -22,7 +22,7 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-52.87.200.239                 github.githubassets.com
+34.216.160.206                github.githubassets.com
 199.232.68.133                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
@@ -53,7 +53,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-09T08:41:05+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-09T10:35:31+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
