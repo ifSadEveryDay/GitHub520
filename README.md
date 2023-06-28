@@ -29,10 +29,11 @@
 185.199.108.153               github.io
 140.82.112.4                  github.com
 140.82.112.4                  api.github.com
-185.199.108.133               user-images.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-185.199.108.133               avatars8.githubusercontent.com
-185.199.108.133               avatars6.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               avatars7.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 140.82.112.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
@@ -45,7 +46,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-28T06:09:38+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-28T08:52:03+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
