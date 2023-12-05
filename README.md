@@ -22,25 +22,12 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-182.43.124.6                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  gist.github.com
 185.199.108.153               github.io
 140.82.114.3                  github.com
 140.82.114.3                  api.github.com
-182.43.124.6                  raw.githubusercontent.com
-182.43.124.6                  user-images.githubusercontent.com
-182.43.124.6                  favicons.githubusercontent.com
-182.43.124.6                  avatars8.githubusercontent.com
-182.43.124.6                  avatars7.githubusercontent.com
-182.43.124.6                  avatars6.githubusercontent.com
-182.43.124.6                  avatars5.githubusercontent.com
-182.43.124.6                  avatars4.githubusercontent.com
-182.43.124.6                  avatars3.githubusercontent.com
-182.43.124.6                  avatars2.githubusercontent.com
-182.43.124.6                  avatars1.githubusercontent.com
-182.43.124.6                  avatars0.githubusercontent.com
 140.82.114.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -52,7 +39,7 @@
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-12-06T04:08:26+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-12-06T06:08:16+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
