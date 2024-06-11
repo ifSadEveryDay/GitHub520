@@ -1,15 +1,29 @@
 # GitHub520 Host Start
-151.101.1.6                   github.map.fastly.net
-151.101.1.6                   github.global.ssl.fastly.net
-140.82.113.4                  gist.github.com
-185.199.108.153               github.io
-140.82.113.4                  github.com
-140.82.113.4                  api.github.com
-140.82.113.4                  codeload.github.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+0.0.1.1                       github.githubassets.com
+0.0.1.1                       camo.githubusercontent.com
+0.0.1.1                       github.map.fastly.net
+0.0.1.1                       github.global.ssl.fastly.net
+0.0.1.1                       gist.github.com
+0.0.1.1                       github.io
+0.0.1.1                       github.com
+0.0.1.1                       api.github.com
+0.0.1.1                       raw.githubusercontent.com
+0.0.1.1                       user-images.githubusercontent.com
+0.0.1.1                       favicons.githubusercontent.com
+0.0.1.1                       avatars8.githubusercontent.com
+0.0.1.1                       avatars7.githubusercontent.com
+0.0.1.1                       avatars6.githubusercontent.com
+0.0.1.1                       avatars5.githubusercontent.com
+0.0.1.1                       avatars4.githubusercontent.com
+0.0.1.1                       avatars3.githubusercontent.com
+0.0.1.1                       avatars2.githubusercontent.com
+0.0.1.1                       avatars1.githubusercontent.com
+0.0.1.1                       avatars0.githubusercontent.com
+0.0.1.1                       codeload.github.com
+0.0.1.1                       github-cloud.s3.amazonaws.com
+0.0.1.1                       github-com.s3.amazonaws.com
+0.0.1.1                       github-production-release-asset-2e65be.s3.amazonaws.com
+0.0.1.1                       github-production-user-asset-6210df.s3.amazonaws.com
+0.0.1.1                       github-production-repository-file-5c1aeb.s3.amazonaws.com
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
